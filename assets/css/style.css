@@ -1,0 +1,172 @@
+
+body {
+    background-color: gray;
+    float: center;
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+
+}
+
+.fixed-nav .slimScrollDiv #side-menu {
+    padding-bottom: 60px;
+}
+
+hr {
+    display: block;
+    height: 10px;
+    border: 0;
+    border-top: 3px solid #dddd;
+    margin: 1em 0;
+    padding: 1px; 
+}
+header {
+
+    background-color: white;
+    align-content: center;
+    padding: 20px;
+    
+
+}
+
+topnav {
+    display: inline;
+    list-style-type: block;
+    padding: 30px;
+    margin-top: 4em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    color: #777777
+
+
+}
+button {
+    padding: 35px 35px 30px 25px;
+    background-color: #4aaaa5;
+    color: white;
+    font-family: Georgia;
+    margin-left: 280px;
+    margin-top: 18px;
+    font-size: 20px;
+    float: left;
+    
+}
+
+ul {
+    
+    list-style-type: none;
+
+}
+
+li {
+
+    float: 20;
+    display: inline;
+    margin-left: 2em;
+    font-size: 20px;
+}
+
+bottom: {
+
+    padding: 500px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+div {
+    overflow: scroll;
+    background-color: white;
+}
+
+
+
+h1 {
+    font-family: Georgia;
+    color: #4aaaa5;
+    text-align: left;
+    
+}
+
+img {
+    margin: 10px;
+    padding: 5px;
+    float: left;
+}
+
+column {
+    margin: 90px;
+    float: center;
+    width: 20%;
+    background-color: white;
+}
+
+p {
+    padding: 20px;
+    margin-top: 40px;
+    float: center;
+    font-family: Georgia;
+    color: #777777;
+    background-color: white;
+    
+}
+
+fakeimg {
+
+    align-content: center;
+    float: center;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    background-color: gray;
+    margin-top: 20px;
+    border-top: 2px solid #4aaaa5;
+    color: white;
+}
+
+
+h2 {
+    color: #4aaaa5;
+    font-family: Georgia;
+    font-size: 30px;
+    float: left;
+
+}
+
+form {
+    padding: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #4aaaa5;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 2px 2px;
+    cursor: pointer;
+}
